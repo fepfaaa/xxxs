@@ -9,7 +9,6 @@ from colorama import Fore, init
 from colorama import Back as bg
 from requests import get
 import os
-from typing_extensions import Required
 import urllib.request
 from typing import Any 
 import discord
